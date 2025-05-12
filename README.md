@@ -5,9 +5,8 @@
 I'm a cybersecurity student passionate about technology and solving real-world problems
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology sparked a strong interest in programming and cybersecurity. I'm now eager to apply my skills and grow professionally in an entry-level IT role.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
