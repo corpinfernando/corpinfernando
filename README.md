@@ -1,9 +1,8 @@
 # Hello, I'm Fernando
 <a href="https://linkedin.com/in/fernando-corpin-jr-a30810284/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a cybersecurity student passionate about technology and solving real-world problems
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
