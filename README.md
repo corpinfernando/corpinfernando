@@ -20,6 +20,8 @@ My journey in technology sparked a strong interest in programming and cybersecur
 | Case Management with TheHive                  | 
 | Scripting and Automation for Threat Mitigation | 
 
+## Projects
+
 | Projects                                        | 
 |-----------------------------------------------|
 | SIEM Implementation and Log Analysis          | 
