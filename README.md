@@ -24,7 +24,7 @@ My journey in technology sparked a strong interest in programming and cybersecur
 
 | Projects                                        | 
 |-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | 
+| User Authentication System (Python)         | 
 | Network Traffic Monitoring and Attack Detection 
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      | 
