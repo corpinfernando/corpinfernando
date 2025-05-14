@@ -13,7 +13,7 @@ My journey in technology sparked a strong interest in programming and cybersecur
 
 | Skill                                         | 
 |-----------------------------------------------|
-| Secure Login System with Python          | 
+| Python Programming for Secure Login and Automation          | 
 | Network Traffic Monitoring and Attack Detection 
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      | 
