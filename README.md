@@ -13,7 +13,7 @@ My journey in technology sparked a strong interest in programming and cybersecur
 
 | Skill                                         | 
 |-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | 
+| Secure Login System with Python          | 
 | Network Traffic Monitoring and Attack Detection 
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      | 
