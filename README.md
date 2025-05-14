@@ -22,14 +22,14 @@ My journey in technology sparked a strong interest in programming and cybersecur
 
 ## Projects
 
-| Projects                                        | 
-|-----------------------------------------------|
-| User Authentication System (Python)         | 
+| Projects                                        |                             |
+|-----------------------------------------------|                               |
+| User Authentication System (Python)         |                                 |
 | Network Traffic Monitoring and Attack Detection 
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
-| Scripting and Automation for Threat Mitigation | 
+| Security Automation with Shuffle SOAR         |                               |
+| Incident Response Planning and Execution      |                                |    
+| Case Management with TheHive                  |                                |
+| Scripting and Automation for Threat Mitigation |                               |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
