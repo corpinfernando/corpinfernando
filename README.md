@@ -9,7 +9,6 @@ I'm a cybersecurity student passionate about technology and solving real-world p
 My journey in technology sparked a strong interest in programming and cybersecurity. I'm now eager to apply my skills and grow professionally in an entry-level IT role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | 
 |-----------------------------------------------|
