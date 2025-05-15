@@ -24,7 +24,7 @@ My journey in technology sparked a strong interest in programming and cybersecur
 | Projects                                | Links         |
 |-----------------------------------------------|----------------------------|
 | User Authentication System (Python)          | <a href="https://github.com/corpinfernando/User-authentication-system">Python</a>|
-| Vulnerability Assessment Lab   | <a href="https://https://github.com/corpinfernando/vulnerability-assessment-lab">Nessus</a>|
+| Vulnerability Assessment Lab   | <a href="https://github.com/corpinfernando/vulnerability-assessment-lab">Nessus</a>|
 |         | |
 |       | |
 |                 | |
