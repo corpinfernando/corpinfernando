@@ -14,9 +14,9 @@ My journey in technology sparked a strong interest in programming and cybersecur
 |-----------------------------------------------|
 | Python Programming for Secure Login and Automation          | 
 | Network Traffic Monitoring and Attack Detection 
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
+|Authentication & Security – Password Hashing, User Authentication, Audit Logging         | 
+| Operating Systems – Linux, macOS, Windows      | 
+| Command Line Tools – Linux Terminal, Shell Scripting, Cisco CLI  | 
 | Scripting and Automation for Threat Mitigation | 
 
 ## Projects
