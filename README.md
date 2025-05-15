@@ -25,10 +25,10 @@ My journey in technology sparked a strong interest in programming and cybersecur
 |-----------------------------------------------|----------------------------|
 | User Authentication System (Python)          | <a href="https://github.com/corpinfernando/User-authentication-system">Python</a>|
 | Linux Shell Scripting   | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|                            
+|         | |
+|       | |
+|                 | |
+|  | |                            
 
 ## Certifications
 <div>
